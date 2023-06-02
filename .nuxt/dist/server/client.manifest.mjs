@@ -1,0 +1,1 @@
+export { default } from "file:///Users/mak/WebstormProjects/ArhipovaTanya.github.io/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
